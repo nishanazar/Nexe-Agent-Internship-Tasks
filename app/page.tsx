@@ -34,32 +34,32 @@ const tasks: Task[] = [
     title: "Multi-Tool Agent",
     description: "A versatile agent that can search the web, save data, and send emails.",
     level: "Intermediate",
-    githubUrl: "https://github.com/your-username/your-repo",
-    videoUrl: "https://your-video-link.com",
+    githubUrl: "https://github.com/nishanazar/Nexe-Agent-Intership-tasks-/tree/main/intermediate/multi-tool-agent",
+    videoUrl: "https://youtu.be/yl9PyaYJFeE?si=OTnaxQd_mAoO0q5G",
     features: ["Web search", "Save to DB", "Send email"]
   },
   {
     title: "RAG Assistant",
     description: "A document-aware assistant using vector stores for contextual question answering.",
     level: "Intermediate",
-    githubUrl: "https://github.com/your-username/your-repo",
-    videoUrl: "https://your-video-link.com",
+    githubUrl: "https://github.com/nishanazar/Nexe-Agent-Intership-tasks-/tree/main/intermediate/rag-assistant",
+    videoUrl: "https://youtu.be/5cSHPgkkg1s?si=FqdiUE5aASkzwGMW",
     features: ["Upload documents", "Vector store", "Contextual answers"]
   },
   {
     title: "Autonomous Business Agent",
     description: "A high-level agent for complex multi-step reasoning and task execution management.",
     level: "Advanced",
-    githubUrl: "https://github.com/your-username/your-repo",
-    videoUrl: "https://your-video-link.com",
+    githubUrl: "https://github.com/nishanazar/Nexe-Agent-Intership-tasks-/tree/main/advanced/autonomous_agent",
+    videoUrl: "https://youtu.be/ubbDUJ4PbkY?si=QRtqZQB7AW6El9a4",
     features: ["Multi-step reasoning", "Task planning", "Execution logs"]
   },
   {
     title: "Multi-Agent System",
     description: "A collaborative ecosystem of specialized agents with a delegation layer.",
     level: "Advanced",
-    githubUrl: "https://github.com/your-username/your-repo",
-    videoUrl: "https://your-video-link.com",
+    githubUrl: "https://github.com/nishanazar/Nexe-Agent-Intership-tasks-/tree/main/advanced/multi-agent-system",
+    videoUrl: "https://youtu.be/keoWI2Anyis?si=ld_nmq7u5PGxcXLF",
     features: ["Separate Agents", "Communication Layer", "Task Delegation"]
   }
 ];
